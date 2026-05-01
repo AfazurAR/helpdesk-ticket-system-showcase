@@ -46,11 +46,14 @@ Ticket is stored in PostgreSQL
 Technician workload updates dynamically
 📸 Screenshots
 
+👉 Welcome page
+![Ticket Form](2026-04-30_21-38-18.png)
+
 👉 Ticket Creation Page
-(Add your screenshot here)
+![Ticket Form](2026-04-30_21-41-11.png)
 
 👉 Ticket List Page
-(Add your screenshot here)
+![Ticket List](2026-04-30_21-42-42.png)
 
 🎯 Learning Outcomes
 Built a full-stack backend system
